@@ -78,5 +78,3 @@ with sns.axes_style("white"):
 
     fig.tight_layout()
 plt.show()
-#retention_matrix.to_csv(r'C:\Users\alexa\Desktop\KV\retentio_matrix.csv')
-#print(df.describe().transpose())
